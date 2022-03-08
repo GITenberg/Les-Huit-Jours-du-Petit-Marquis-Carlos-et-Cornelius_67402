@@ -1,0 +1,37 @@
+_repo: Les-Huit-Jours-du-Petit-Marquis-Carlos-et-Cornelius_67402
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Claretie, Jules
+    aliases:
+    - Claretie, Arsène-Arnaud
+    - Claretie, Arsène-Armand
+    - Claretie, Jules Arsène Arnaud
+    - Claretie, Arsene-Arnaud
+    birthdate: 1840
+    deathdate: 1913
+    gutenberg_agent_id: '1338'
+    url: http://www.gutenberg.org/2009/agents/1338
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jules_Claretie
+    - https://en.wikipedia.org/wiki/Jules_Ars%C3%A8ne_Arnaud_Claretie
+description: ''
+gutenberg_issued: '2022-02-14'
+identifiers:
+  gutenberg: '67402'
+language: fr
+pgterms:marc905: 20190311070744claretie
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Delphine Lettau PM, Cindy Beyer, and the online Distributed Proofreaders
+  Canada team at http://www.pgdpcanada.net.
+publication_note: France :Nelson,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction'
+- GITenberg
+title: Les Huit Jours du Petit Marquis; Carlos et Cornélius
+url: http://www.gutenberg.org/ebooks/67402
